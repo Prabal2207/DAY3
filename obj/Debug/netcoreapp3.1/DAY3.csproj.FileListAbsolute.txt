@@ -1,0 +1,12 @@
+/Users/prabalrai/Documents/C#_Assignment/DAY3/bin/Debug/netcoreapp3.1/DAY3.deps.json
+/Users/prabalrai/Documents/C#_Assignment/DAY3/bin/Debug/netcoreapp3.1/DAY3.runtimeconfig.json
+/Users/prabalrai/Documents/C#_Assignment/DAY3/bin/Debug/netcoreapp3.1/DAY3.runtimeconfig.dev.json
+/Users/prabalrai/Documents/C#_Assignment/DAY3/bin/Debug/netcoreapp3.1/DAY3.dll
+/Users/prabalrai/Documents/C#_Assignment/DAY3/bin/Debug/netcoreapp3.1/DAY3.pdb
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.csproj.AssemblyReference.cache
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.AssemblyInfoInputs.cache
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.AssemblyInfo.cs
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.csproj.CoreCompileInputs.cache
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.dll
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.pdb
+/Users/prabalrai/Documents/C#_Assignment/DAY3/obj/Debug/netcoreapp3.1/DAY3.genruntimeconfig.cache
